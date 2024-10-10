@@ -12,5 +12,5 @@ t = float(input('Masukan Tinggi: '))
 luas = la + ls
 volume = 1/3 * la * t
 
-print('Luas Permukaan\t: ' , round(luas,2) , 'Cm2')
-print('Volume\t\t: ' , round(volume,2) , 'Cm3')
+print('Luas Permukaan\t: ' , round(luas,2), 'Cm2')
+print('Volume\t\t: ' , round(volume,2), 'Cm3')

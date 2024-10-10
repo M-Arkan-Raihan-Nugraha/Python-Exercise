@@ -11,8 +11,8 @@ t = float(input('Masukan Tinggi: '))
 s = float(input('Masukan Garis Pelukis: '))
 luas = 3.14 * r * (r + s)
 keliling = 2 * 3.14 * r
-volume = 1/3 * 3.14 * r**2 * t
+volume = l1/3 * 3.14 * r**2 * t
 
-print('Keliling\t: ' , round(keliling,2) , 'Cm')
-print('Luas Permukaan\t: ' , round(luas,2) , 'Cm2')
-print('Volume\t\t: ' , round(volume,2) , 'Cm3')
+print('Keliling\t: ' , keliling, 'Cm')
+print('Luas Permukaan\t: ' , luas, 'Cm2')
+print('Volume\t\t: ' , volume, 'Cm3')

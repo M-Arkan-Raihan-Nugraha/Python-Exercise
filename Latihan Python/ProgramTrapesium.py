@@ -14,5 +14,5 @@ tinggi = float(input("Masukkan Tinggi: "))
 luas = 1/2 * (a + b) * tinggi
 keliling = a + b + c + d
 
-print('Luas\t\t: ' , luas , 'Cm2')
+print('Luas\t\t: ' , luas, 'Cm2')
 print('Keliling\t: ' , keliling, 'Cm')

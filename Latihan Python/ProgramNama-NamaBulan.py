@@ -1,3 +1,11 @@
+# DIBUAT OLEH: M ARKAN RAIHAN NUGRAHA
+# TANGGAL DIBUAT: 14 SEPTEMBER 2024
+# PROGRAM MENENTUKAN BULAN BERDASARKAN NOMORNYA
+
+print('='*24)
+print('PROGRAM NAMA-NAMA BULAN')
+print('='*24)
+
 b = int(input('Masukan Nomor Bulan: '))
 
 if b == 1:

@@ -12,6 +12,6 @@ luas = 2 * 3.14 * r**2
 keliling = 2 * 3.14 * r
 volume = 3.14 * r**2 * t
 
-print('Keliling\t: ' , round(keliling,2) , 'Cm')
-print('Luas\t\t: ' , round(luas,2) , 'Cm2')
-print('Volume\t\t: ' , round(volume,2) , 'Cm3')
+print('Keliling\t: ' , keliling, 'Cm')
+print('Luas\t\t: ' , luas, 'Cm2')
+print('Volume\t\t: ' , volume, 'Cm3')

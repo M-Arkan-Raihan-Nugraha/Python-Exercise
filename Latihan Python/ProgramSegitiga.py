@@ -15,5 +15,5 @@ b = tinggi
 c = sisimiring
 keliling = a + b + c
 
-print('Luas\t\t: ' , round(luas,2) , 'Cm2')
-print('Keliling\t: ' , round(keliling,2) , 'Cm')
+print('Luas\t\t: ' , luas, 'Cm2')
+print('Keliling\t: ' , keliling, 'Cm')

@@ -10,5 +10,5 @@ r = float(input('Masukan Jari-Jari: '))
 luas = 3.14 * r * r
 keliling = 2 * 3.14 * r
 
-print('Luas\t\t: ' , luas , 'Cm2')
+print('Luas\t\t: ' , luas, 'Cm2')
 print('Keliling\t: ' , keliling, 'Cm')
