@@ -1,0 +1,10 @@
+# DIBUAT OLEH: M ARKAN RAIHAN NUGRAHA
+# TANGGAL DIBUAT: 04 NOVEMBER 2024
+# PROGRAM PENGULANGAN 'Cerdas' 4 KALI SECARA HORIZONTAL
+
+print('='*20)
+print('PROGRAM LOOPING 1')
+print('='*20)
+
+for a in range(4):
+    print('Cerdas', end=' ')
