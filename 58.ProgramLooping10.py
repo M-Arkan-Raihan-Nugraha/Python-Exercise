@@ -1,0 +1,10 @@
+# DIBUAT OLEH: M ARKAN RAIHAN NUGRAHA
+# TANGGAL DIBUAT: 06 NOVEMBER 2024
+# PROGRAM PENGULANGAN aaaaa SEBANYAK 5 KALI SECARA VERTIKAL
+
+print('='*20)
+print('PROGRAM LOOPING 10')
+print('='*20)
+
+for i in range(5):
+    print('a a a a a')
