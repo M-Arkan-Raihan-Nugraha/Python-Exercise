@@ -1,0 +1,12 @@
+# DIBUAT OLEH: M ARKAN RAIHAN NUGRAHA
+# TANGGAL DIBUAT: 07 NOVEMBER 2024
+# PROGRAM PENGULANGAN BINTANG YANG BERTAMBAH DARI 1 SAMPAI 5 DAN BERKURANG DARI 4 SAMPAI 1 SECARA VERTIKAL
+
+print('='*20)
+print('PROGRAM LOOPING 13')
+print('='*20)
+
+for i in range(1, 6):
+    print('*' * i)
+for i in range(4, 0, -1):
+    print('*' * i)
