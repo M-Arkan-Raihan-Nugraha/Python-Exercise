@@ -1,0 +1,12 @@
+# DIBUAT OLEH: M ARKAN RAIHAN NUGRAHA
+# TANGGAL DIBUAT: 08 NOVEMBER 2024
+# PROGRAM MENAMPILKAN HASIL PERKALIAN DARI KONSTANTA DAN VARIABEL
+
+print('='*20)
+print('PROGRAM SOAL 3')
+print('='*20)
+
+QTY = 23
+harga_sepatu = 45000
+h = QTY * harga_sepatu
+print('Hasil: ', h)
